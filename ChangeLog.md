@@ -1,5 +1,12 @@
 # Change Log
 
+### [v0.2.1](https://github.com/PoshoDev/PoshoLib/releases/tag/v0.2.1)
+
+- **Minor Changes**
+  - Added descriptions to some functions.
+
+
+
 ### [v0.2](https://github.com/PoshoDev/PoshoLib/releases/tag/v0.2)
 
 * **Major Changes**

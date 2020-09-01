@@ -6,6 +6,7 @@ function timer_init()
 
 
 /// @desc   Starts a timer.
+/// @param	secs	The time in seconds.
 function timer_set(secs)
 {
     dsl_add(timer, seconds(secs));

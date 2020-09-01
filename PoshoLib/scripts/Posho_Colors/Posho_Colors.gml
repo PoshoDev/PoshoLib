@@ -1,3 +1,4 @@
+/// @desc	More colors.
 function Posho_Colors()
 {
 	#macro cl_white	$ffffff

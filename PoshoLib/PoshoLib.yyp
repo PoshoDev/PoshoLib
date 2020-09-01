@@ -31,11 +31,11 @@
   },
   "RoomOrder": [],
   "Folders": [
-    {"folderPath":"folders/Posho Lib (0.2).yy","order":1,"resourceVersion":"1.0","name":"Posho Lib (0.2)","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Extensions/Posho/Posho Lib (0.2)/Functions.yy","order":1,"resourceVersion":"1.0","name":"Functions","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Extensions/Posho/Posho Lib (0.2)/Macros.yy","order":2,"resourceVersion":"1.0","name":"Macros","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Extensions/Posho/Posho Lib (0.2)/Objects.yy","order":3,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Extensions/Posho/Posho Lib (0.2)/Simplifications.yy","order":4,"resourceVersion":"1.0","name":"Simplifications","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Posho Lib (0.2.1).yy","order":1,"resourceVersion":"1.0","name":"Posho Lib (0.2.1)","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Posho Lib (0.2.1)/Functions.yy","order":1,"resourceVersion":"1.0","name":"Functions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Posho Lib (0.2.1)/Macros.yy","order":2,"resourceVersion":"1.0","name":"Macros","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Posho Lib (0.2.1)/Objects.yy","order":3,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Posho Lib (0.2.1)/Simplifications.yy","order":4,"resourceVersion":"1.0","name":"Simplifications","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},

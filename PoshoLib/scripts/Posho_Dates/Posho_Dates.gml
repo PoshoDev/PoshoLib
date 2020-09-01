@@ -1,4 +1,6 @@
-/// @desc	
+/// @desc			Turns a string into a day of the week index (must be lowercase).
+/// @param	str		The string to convert.
+///	@return	[int]	The day of the week's index number (0 is Sunday, 6 is Saturday).
 function weekday_get_int(str)
 {
     switch(str)
@@ -13,6 +15,10 @@ function weekday_get_int(str)
     }
 }
 
+
+/// @desc			Turns a string into a month index (must be lowercase).
+/// @param	str		The string to convert.
+///	@return	[int]	The month's index number (0 is January, 11 is December).
 function month_get_int(str)
 {
     switch(str)
