@@ -1,3 +1,4 @@
+/// @desc	
 function weekday_get_int(str)
 {
     switch(str)
