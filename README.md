@@ -1,6 +1,6 @@
 # PoshoLib
 
-Tools and utilities for GameMaker: Studio 2.3+.
+Tools and utilities for GameMaker: Studio 2.3+ that I use frequently. Handy if you want to expand your toolset.
 
 - ### [Download the Latest .yymps](https://github.com/PoshoDev/PoshoLib/releases)
 
