@@ -1,4 +1,4 @@
-/// @desc   Checks if there's a collision between two points.
+/// @desc   Checks if there is a specific object colliding with the line formed by two points.
 /// @param  x1  Point A's X.
 /// @param  y1  Point A's Y.
 /// @param  x2  Point B's X.
@@ -24,7 +24,7 @@ function raycast_check(x1, y1, x2, y2, obj, qua)
 }
 
 
-/// @desc   Checks if there's a collision between two points returning coords.
+/// @desc   Checks if there's a collision between two points and returnins coordinates.
 /// @param  x1  Point A's X.
 /// @param  y1  Point A's Y.
 /// @param  x2  Point B's X.

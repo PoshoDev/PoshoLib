@@ -1,4 +1,4 @@
-/// @desc			Turns a string into a day of the week index (must be lowercase).
+/// @desc			Turns a string into a day of the week's index.
 /// @param	str		The string to convert.
 ///	@return	[int]	The day of the week's index number (0 is Sunday, 6 is Saturday).
 function weekday_get_int(str)
