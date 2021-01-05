@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Simplifications",
-    "path": "folders/Posho Lib (0.2.1)/Simplifications.yy",
+    "name": "Functions",
+    "path": "folders/Posho Lib (0.3)/Functions.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Posho_DS_Grids",
+  "name": "Posho_Numbers",
   "tags": [],
   "resourceType": "GMScript",
 }

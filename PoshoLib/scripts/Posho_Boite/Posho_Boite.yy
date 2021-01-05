@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Simplifications",
-    "path": "folders/Posho Lib (0.2.1)/Simplifications.yy",
+    "name": "Interfaces",
+    "path": "folders/Posho Lib (0.3)/Objects/Interfaces.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Posho_Windows",
+  "name": "Posho_Boite",
   "tags": [],
   "resourceType": "GMScript",
 }

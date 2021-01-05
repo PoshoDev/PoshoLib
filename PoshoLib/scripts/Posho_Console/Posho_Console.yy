@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Functions",
-    "path": "folders/Posho Lib (0.3)/Functions.yy",
+    "name": "Simplifications",
+    "path": "folders/Posho Lib (0.3)/Simplifications.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Posho_Raycast",
+  "name": "Posho_Console",
   "tags": [],
   "resourceType": "GMScript",
 }
