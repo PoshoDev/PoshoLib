@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Interfaces",
-    "path": "folders/Posho Lib (0.3)/Objects/Interfaces.yy",
+    "name": "Lux",
+    "path": "folders/Posho Lib (0.4)/Objects/Interfaces/Lux.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Posho_Buttons",
+  "name": "Posho_Lux_Input",
   "tags": [],
   "resourceType": "GMScript",
 }

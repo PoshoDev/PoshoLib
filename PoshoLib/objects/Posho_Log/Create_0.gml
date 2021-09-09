@@ -5,6 +5,7 @@ log = self;
 data = dsl_create();
 
 visible = true;
+depth = -9001;
 
 capacity = 8;
 added = 0;

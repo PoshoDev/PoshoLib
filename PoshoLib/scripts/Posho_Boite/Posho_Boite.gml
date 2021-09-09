@@ -27,6 +27,7 @@ function Posho_Boite(x_, y_, w_, h_) constructor
     
     off = 8;
     sep = 16;
+    rad = 8;
     
     
     step = function()
@@ -74,19 +75,19 @@ function Posho_Boite(x_, y_, w_, h_) constructor
         if (size > 0)
         {
             // Background
-            draw_roundr_plus(x, y, w, h, col_back, col_font, alpha_back);
+            draw_roundr_plus(x, y, w, h, rad, rad, col_back, col_font, alpha_back);
             
             // Items
             for (var i=0; i<size; i++)
             {
                 if (pos == i)
                 {
-                    draw_roundr_col(x+off/2, y+sep*i, w-off, sep, col_font, false);
+                    draw_roundr_col(x+off/2, y+sep*i, w-off, sep, rad, rad, col_font, false);
                     
                     // Description
                     if (active && dsl(items, i).description!=EMPTY)
                     {
-                        draw_roundr_plus(x+w+off/2, y+sep*i, w-off, sep, col_back, col_font, alpha_back);
+                        draw_roundr_plus(x+w+off/2, y+sep*i, w-off, sep, rad, rad, col_back, col_font, alpha_back);
                         
                         draw_set_color(col_font);
                         draw_text(x+w+off, y+sep*i, dsl(items, i).description);
